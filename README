@@ -1,0 +1,24 @@
+Emote - Another GTK+ and gstreamer based Media Player
+Copyright (c) 2009 Alvin Delagon (http://www.alvinatorsplayground.blogspot.com)
+All rights reserved.
+
+Overview
+--------
+A media player based on GTK+ and gstreamer that I started for learning purposes
+
+Directory Structure
+-------------------
+data - misc. files (*.glade)
+src  - source directory
+
+Requirements
+------------
+    gstreamer-0.10
+    libglade-2.0
+
+Building
+--------
+There's no automake tools yet. For now build the source with this command while you're
+in the src directory:
+
+$ gcc -Wall $(pkg-config --cflags --libs gstreamer-0.10,libglade-2.0) *.c -o ../emote
