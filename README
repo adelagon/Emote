@@ -18,7 +18,7 @@ Requirements
 
 Building
 --------
-There's no automake tools yet. For now build the source with this command while you're
+There's no automake tools yet. For now, build the source with this command while you're
 in the src directory:
 
 $ gcc -Wall $(pkg-config --cflags --libs gstreamer-0.10,libglade-2.0) *.c -o ../emote
