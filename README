@@ -2,7 +2,11 @@ Emote - Another GTK+ and gstreamer based Media Player
 Copyright (c) 2009 Alvin Delagon (http://www.alvinatorsplayground.blogspot.com/)
 All rights reserved.
 
+<<<<<<< HEAD
 Celine
+=======
+Introduction
+>>>>>>> 35dfb10f38f2816ad7f3903ecaf0fca1745fe332
 --------
 A media player based on GTK+ and gstreamer that I started for learning purposes
 
