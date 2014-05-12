@@ -6,7 +6,7 @@ Introduction
 --------
 A media player based on GTK+ and gstreamer that I started for learning purposes
 
-Directory Structure
+Directory Structure :)
 -------------------
 data - misc. files (*.glade)
 src  - source directory
